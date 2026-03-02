@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**purplerain-dev/purplerain-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Asif — an aspiring web developer from Bangladesh.
 
-Here are some ideas to get you started:
+Right now I’m building strong fundamentals and keeping things simple.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+HTML (done)
+CSS (learning via freeCodeCamp)
+JavaScript (next)
+Python basics
+
+Short term:
+WordPress development & responsive websites
+
+Long term:
+React, modern UI, and full-stack engineering
+
+What I’m building:
+
+Responsive landing pages
+Small UI practice projects
+Foundation projects that improve structure & clean code
+
+Fun facts:
+
+Gym mindset
+Anime fan (Demon Slayer is elite)
+Learning German for future IT opportunities 🇩🇪
+
+This is the starting version.
+The polished version is coming. 🚀
