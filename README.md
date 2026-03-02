@@ -25,8 +25,8 @@ Foundation projects that improve structure & clean code
 
 Fun facts:
 
-Gym mindset
-Anime fan (Demon Slayer is elite)
+Dedicated mindset
+Football Fan (Mia San Mia)
 Learning German for future IT opportunities 🇩🇪
 
 This is the starting version.
